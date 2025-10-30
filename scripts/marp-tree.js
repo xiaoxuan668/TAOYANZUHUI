@@ -2,7 +2,7 @@ const fs = require('fs').promises;
 const path = require('path');
 
 // 基础URL前缀（用于拼接Marp幻灯片的在线访问链接）
-const BASE_URL = 'https://jjq0425.github.io/my-marp/';
+const BASE_URL = 'https://xiaoxuan668.github.io/TAOYANZUHUI/';
 const OUTPUT_PATH = './menu.md';
 const SPLITE_LINES = 10; // 每隔多少行插入---分割线
 const MD_TEMPLATE = `---
